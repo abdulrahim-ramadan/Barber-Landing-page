@@ -1,4 +1,4 @@
-#Barber Landing Page
+###Barber Landing Page
 
 ## Project Overview
 This is a responsive landing page for a barber shop, designed to showcase services, pricing, and contact information. The project is built with modern web technologies to ensure a smooth user experience across all devices.
