@@ -46,8 +46,8 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 [Specify your license here, or note if it's open for public use]
 
-## Demo
-[If you have a live demo, include the link here]
+## live Demo
+https://jabawi.netlify.app
 
 ## Contact
 For questions or feedback, please contact:
